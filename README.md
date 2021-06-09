@@ -14,6 +14,11 @@ Site simples e responsivo de três páginas feito com **HTML** e **CSS**. Feito 
 <img src="https://1.bp.blogspot.com/-yqe3XhEDxJA/YMEQrOZYr0I/AAAAAAAAA8I/aLoBiwT0uO0fDHQk-QTzo5y1hpvZpDjxgCLcBGAsYHQ/s830/Frame%2B1.png">
 </p>
 
+## O que aprendi? 
+- Foi meu primeiro projeto aplicando o conhecimento de Grids em CSS
+- Utilizei variáveis CSS, para cores que seriam utilizadas com frequência ao longo da página
+
+
 ````diff
 
 - Cores utilizadas:
@@ -37,6 +42,3 @@ Azul claro: #009cff
 <img src="https://lh3.googleusercontent.com/-stk-STfdMBc/YMENw5aJiAI/AAAAAAAAA74/JmiEZUuyuEcoo_vES7l-KJ29gsTsQNdqQCLcBGAsYHQ/s16000/image.png">
 </p>
 
-## O que aprendi? 
-- Foi meu primeiro projeto aplicando o conhecimento de Grids em CSS
-- Utilizei variáveis CSS, para cores que seriam utilizadas com frequência ao longo da página
