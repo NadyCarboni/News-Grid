@@ -4,6 +4,9 @@
 </p>
 
 Site simples e responsivo de três páginas feito com **HTML** e **CSS**. Feito como projeto a partir do curso "[Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/)".
+
+### Clique [aqui](https://newsgrid-nadia.netlify.app/) para visitar o site!
+
 ## Páginas:
 - Index (home)
 - About
@@ -41,4 +44,6 @@ Azul claro: #009cff
 <p Align=center>
 <img src="https://lh3.googleusercontent.com/-stk-STfdMBc/YMENw5aJiAI/AAAAAAAAA74/JmiEZUuyuEcoo_vES7l-KJ29gsTsQNdqQCLcBGAsYHQ/s16000/image.png">
 </p>
+
+
 
