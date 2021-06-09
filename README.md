@@ -1,4 +1,4 @@
-# News-Grid
+# NewsGrid
 <p Align=center>
 <img src="https://lh3.googleusercontent.com/-l9MdQxwLCv8/YMD_q5t3XNI/AAAAAAAAA7w/A_1lG7sE0SsBM5OJO6hTQEFt2d9L3I6fgCLcBGAsYHQ/s16000/image.png">
 </p>
